@@ -1,0 +1,10 @@
+For graphs:
+ - Matplotlib
+ - Seaborn
+
+For data changes/manipulation:
+ - pandas, numpy
+
+
+For actual Machine Learning:
+ - sklearn, tensorflow, pytorch, scipy
